@@ -1,2 +1,3 @@
-# spotbot
- Discord bot that lets you build a Spotify playlist
+# SpotBot
+
+Discord bot that lets you build a Spotify playlist
