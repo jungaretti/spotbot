@@ -1,3 +1,3 @@
 # SpotBot
 
-Discord bot that lets you build a Spotify playlist
+SpotBot is a Discord bot that helps you and your friends build a Spotify playlist together.
